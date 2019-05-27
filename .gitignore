@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+
+# Do not add the SDK in VCS
+/vidinoti-3d/vidinoti-3d-release.aar
